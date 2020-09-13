@@ -1,11 +1,11 @@
 {
-  "language": "Korean",
-  "startmenu.new_game": "NEW GAME",
-  "startmenu.multiplayer": "MULTIPLAYER",
-  "startmenu.resume_game": "RESUME GAME",
-  "startmenu.settings": "Settings",
-  "startmenu.high_score": "High Score",
-  "startmenu.throne_room": "Throne Room",
+  "language": "한국어",
+  "startmenu.new_game": "싱글플레이",
+  "startmenu.multiplayer": "멀티플레이",
+  "startmenu.resume_game": "이어서 플레이",
+  "startmenu.settings": "설정",
+  "startmenu.high_score": "최고 점수",
+  "startmenu.throne_room": "명예의 전당",
   "startmenu.about": "About",
 
   "news.title": "POLYTOPIA NEWS",
